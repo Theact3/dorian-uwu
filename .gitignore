@@ -1,0 +1,9 @@
+# Datos (se descargan desde Kaggle)
+*.csv
+# Textos de los papers y de la pauta (material con derechos de autor / del curso)
+churn_IEEE.md
+churn_ScienceDirect.md
+pauta_preentrega.md
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
